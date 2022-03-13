@@ -1,0 +1,14 @@
+body {
+  background-color: lightcoral;
+}
+
+h1 {
+  background-color: rgb(79, 0, 11);
+  color: #c1cfda;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #c1cfda;
+}
